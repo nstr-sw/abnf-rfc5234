@@ -6,7 +6,7 @@ readme = "README.md"
 repository = "https://git.nstr.no/nstr-sw/abnf-rfc5234"
 authors = ["Nstr Software AS"]
 keywords  = ["rfc5234", "abnf", "bnf", "backus-naur"]
-version = "0.1.0-dev.0"
+version = "0.1.0-dev.1"
 edition = "2021"
 
 [dependencies]

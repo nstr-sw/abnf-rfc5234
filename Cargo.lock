@@ -4,7 +4,7 @@ version = 3
 
 [[package]]
 name = "abnf-rfc5234"
-version = "0.1.0-dev.0"
+version = "0.1.0-dev.1"
 dependencies = [
  "pest",
  "pest_derive",
