@@ -18,6 +18,11 @@ but that they might pull it in as an indirect dependency if they use other
 library crates that make use of this library crate for parsing of syntax
 defined in other RFCs.
 
+## git repo URLs
+
+- Main repo: https://git.nstr.no/nstr-sw/abnf-rfc5234
+- GitHub mirror: https://github.com/nstr-sw/abnf-rfc5234
+
 ## Notable library crates that use this library crate
 
 None yet :^)
